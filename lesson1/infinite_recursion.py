@@ -3,9 +3,7 @@
 count:int = 0 
 
 def f() -> None: 
-
     print(1) 
-
     f() 
 
 if __name__ == "__main__": 
