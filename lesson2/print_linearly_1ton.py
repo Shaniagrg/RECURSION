@@ -11,3 +11,5 @@ if __name__ == "__main__":
 
 #TC = O(n) funtction is called n number times
 #SC = O(n) its stores in the internal space called stack space
+
+#check
