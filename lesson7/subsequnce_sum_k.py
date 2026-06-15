@@ -13,7 +13,7 @@ Base condition is different cuz we looking for sum
             if s == sum
 '''
 
-def sum_k(ind:int, arr:list[int], n:int, s:int):
+def sum_k(ind:int, arr:list[int], n:int, s:int) -> bool:
     # Base Case: Always return when we reach the end of the array
     if ind == n:
         if s == sum:
